@@ -3,9 +3,9 @@
 
 PROJECT DESCRIPTION
 
-•	Find data in Kaggle or other free data. Identify dummy variables and opportunities for data enrichment. If possible, enrich and extend your data. /n
-•	Build a mock project and logic model around your tech stack, with behavioral goals for your target audience
-•	Include all components listed in the grading rubric
+1. Find data in Kaggle or other free data. Identify dummy variables and opportunities for data enrichment. If possible, enrich and extend your data. 
+2. Build a mock project and logic model around your tech stack, with behavioral goals for your target audience
+3. Include all components listed in the grading rubric
 
 SEGMENT
 
@@ -24,9 +24,5 @@ ENGAGE
 
 PRESENT
 
-•	Present a summary of your business, audiences, funnel, algorithms and content to a presentation, under 20 min. You must include visuals and a walkthrough. There’s a hard cutoff, and you won’t be graded on content you failed to present. So you MUST describe everything in the grading rubric. To be safe. Use the rubric as a structure for your presentation and practice the timing. 
-•	After, you’ll have 10 min to discuss it with the professor. 
-•	There’s time for an open discussion after. 
-•	Format: Any slide presentation you can present. Submit final slides as PDFs for compatibility.
-•	Also, have raw printouts for discussions
-•	You’re expected to submit a power point slide deck, with statistical sheets as optional submission materials
+Present a summary of your business, audiences, funnel, algorithms and content to a presentation, under 20 min. You must include visuals and a walkthrough. There’s a hard cutoff, and you won’t be graded on content you failed to present. So you MUST describe everything in the grading rubric. To be safe. Use the rubric as a structure for your presentation and practice the timing. 
+
