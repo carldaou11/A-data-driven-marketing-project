@@ -3,7 +3,7 @@
 
 PROJECT DESCRIPTION
 
-•	Find data in Kaggle or other free data. Identify dummy variables and opportunities for data enrichment. If possible, enrich and extend your data.
+•	Find data in Kaggle or other free data. Identify dummy variables and opportunities for data enrichment. If possible, enrich and extend your data. /n
 •	Build a mock project and logic model around your tech stack, with behavioral goals for your target audience
 •	Include all components listed in the grading rubric
 
